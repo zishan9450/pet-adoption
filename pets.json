@@ -1,0 +1,21 @@
+
+[
+    {
+      "id": 1,
+      "name": "Dog",
+      "description": "A loyal and friendly pet.",
+      "image": "path_to_dog_image.jpg",
+      "age": 2,
+      "isLiked": false
+    },
+    {
+      "id": 2,
+      "name": "Cat",
+      "description": "An independent and playful pet.",
+      "image": "path_to_cat_image.jpg",
+      "age": 3,
+      "isLiked": false
+    }
+
+  ]
+  
